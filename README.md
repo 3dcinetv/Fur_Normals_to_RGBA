@@ -16,3 +16,5 @@ Fur Normals to RGBA makes it easy to bake your groomed GN hair. Groom once with 
 1. Download ZIP
 2. Edit > Preferences > Add-ons > Install
 3. Enable "Fur Normals to RGBA"
+
+<img src="img/install.png" width="512">
