@@ -1,4 +1,4 @@
-# Fur_Normals_to_RGBA
+# Fur Normals to RGBA
 _Bake GN Fur into Animaze &amp; Game-Ready Maps_
 
 Fur Normals to RGB(A) converts Geometry Nodes fur into clean, game-ready texture maps in a single bake.
